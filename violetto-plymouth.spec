@@ -30,4 +30,4 @@ Violetto theme for Plymouth
 
 %install
 mkdir -p %{buildroot}%{_datadir}/plymouth/themes/Violetto
-cp -rf * %{buildroot}%{_datadir}/plymouth/themes/
+cp -rf * %{buildroot}%{_datadir}/plymouth/themes/Violetto
