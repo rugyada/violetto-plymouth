@@ -54,6 +54,5 @@ find . -type f | xargs chmod 0644
 # nothing
 
 %install
-mkdir -p %{buildroot}%{_datadir}/plymouth/themes/
-
-cp -r Violetto %{buildroot}%{_datadir}/plymouth/themes/
+mkdir -p %{buildroot}%{_datadir}/plymouth/themes/Violetto
+cp -rf * %{buildroot}%{_datadir}/plymouth/themes/Violetto/
