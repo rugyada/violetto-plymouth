@@ -1,1 +1,2 @@
-# violetto-plymouth
+# violetto-grub
+Violetto theme for Plymouth
